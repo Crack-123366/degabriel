@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://wallpapers.com/images/hd/red-love-hearts-background-dhzo6v0dyrayjld7.jpg);
+    background-size: cover;
+    color: aliceblue;
+    animation: color 5s infinite;
+}
+    @keyframes color {
+        25%{
+            color: rgb(20, 208, 192);
+        }
+        50%{
+            color: blue;
+        }
+        100%{
+            color: rgb(171, 193, 28);
+        }
+    }
+
+body h3{
+    text-align: justify;
+}
